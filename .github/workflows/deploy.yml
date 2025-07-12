@@ -2,7 +2,7 @@ name: Deploy Flutter Web to GitHub Pages
 
 on:
   push:
-    branches: [master]  # hoặc "master" nếu bạn dùng tên branch đó
+    branches: [main]  # hoặc "master" nếu bạn dùng tên branch đó
 
 jobs:
   build:
